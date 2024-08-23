@@ -15,4 +15,24 @@ This system offers an intuitive interface for users to browse a curated selectio
 4) **Room and Image Customization**: Flexibly manage and edit room categories, types, and images to keep the site content fresh and appealing.
 
 This system uses MySQL database, ensuring reliable data storage, fast query processing, and great scalability for complex operations.
-It is ideal for hotels aiming to modernize their booking process while providing administrators with powerful tools to manage operations with precision
+It is ideal for hotels aiming to modernize their booking process while providing administrators with powerful tools to manage operations with precision.
+
+**Screenshots of Some of the Mentioned Features**
+
+![5b1d34ec-5757-412f-8147-375af9c725f5](https://github.com/user-attachments/assets/f822201e-0556-44fb-94ad-f45ef61d5bad)
+
+![4c584712-c56d-4f92-9e37-29c32261b79d](https://github.com/user-attachments/assets/2b3aaf99-8bcf-426f-82b9-51ce3874e9b9)
+
+![6890ae59-42df-443f-b896-4c5ffc3b1655](https://github.com/user-attachments/assets/517ba1d9-48de-4b1c-85fc-69859b61e4e1)
+
+![939c3998-af8e-4120-b96a-7f899e0a54eb](https://github.com/user-attachments/assets/cdda8819-e66d-4568-8f91-9eef79f1e718)
+
+
+
+
+
+
+
+
+
+

@@ -17,9 +17,15 @@ This system offers an intuitive interface for users to browse a curated selectio
 This system uses MySQL database, ensuring reliable data storage, fast query processing, and great scalability for complex operations.
 It is ideal for hotels aiming to modernize their booking process while providing administrators with powerful tools to manage operations with precision.
 
-**Screenshots of Some of the Mentioned Features**
+**Few Screenshots of the User Interface**
 
 ![31111533-73c9-4cba-a56f-0ffaf5e57250](https://github.com/user-attachments/assets/cbd8e0d1-5eb1-4123-801a-2a9960934815)
+
+![5d26f749-29f3-4f5b-b6b7-d1d128e45bbf](https://github.com/user-attachments/assets/3470c32f-2c22-4a37-8435-834f5363d858)
+
+![image](https://github.com/user-attachments/assets/58394b18-cf1d-41d2-b9b4-e9f5cd77adbc)
+
+**Few Screenshots of the Admin Interface**
 
 ![5b1d34ec-5757-412f-8147-375af9c725f5](https://github.com/user-attachments/assets/f822201e-0556-44fb-94ad-f45ef61d5bad)
 

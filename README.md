@@ -19,6 +19,8 @@ It is ideal for hotels aiming to modernize their booking process while providing
 
 **Screenshots of Some of the Mentioned Features**
 
+![31111533-73c9-4cba-a56f-0ffaf5e57250](https://github.com/user-attachments/assets/cbd8e0d1-5eb1-4123-801a-2a9960934815)
+
 ![5b1d34ec-5757-412f-8147-375af9c725f5](https://github.com/user-attachments/assets/f822201e-0556-44fb-94ad-f45ef61d5bad)
 
 ![4c584712-c56d-4f92-9e37-29c32261b79d](https://github.com/user-attachments/assets/2b3aaf99-8bcf-426f-82b9-51ce3874e9b9)
